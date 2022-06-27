@@ -20,6 +20,7 @@ export default function Home({ results }) {
         <a
           className="group-hover:animate-bounce h-8 mb-1 inline-block group-hover:font-bold transition-all duration-300"
           target="_blank"
+          rel="noreferrer"
           href="https://www.linkedin.com/in/feriani-mahdi-996a0521a/"
         >
           Feriani Mahdi
